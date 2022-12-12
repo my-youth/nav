@@ -1,7 +1,15 @@
 [
   {
+    "name": "Ping检测",
+    "url": "https://ping.chinaz.com/",
+    "icon": "https://csstools.chinaz.com/favicon.ico",
+    "placeholder": "Ping检测",
+    "blocked": false,
+    "isInner": false
+  },
+  {
     "name": "站内",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
+    "icon": "https://ts1.cn.mm.bing.net/th/id/R-C.34e7f4057379c7ee4939796a1e895d26?rik=j%2fODYTpSTWt2MQ&riu=http%3a%2f%2fbpic.588ku.com%2felement_pic%2f00%2f16%2f07%2f07577dfcf1c6bc7.jpg&ehk=JvJKKmkOKvhpFzkIn%2fGyhbSiPZXI9xKw2AJ7k4cZrGM%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
     "placeholder": "站内搜索",
     "blocked": false,
     "isInner": true
@@ -9,7 +17,7 @@
   {
     "name": "百度",
     "url": "https://www.baidu.com/s?wd=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/baidu.svg",
+    "icon": "https://www.baidu.com/favicon.ico",
     "placeholder": "百度一下",
     "blocked": false,
     "isInner": false
@@ -17,36 +25,39 @@
   {
     "name": "Google",
     "url": "https://www.google.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
+    "icon": "https://xn--flw351e.ml/images/branding/googleg/1x/googleg_standard_color_128dp.png",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "Google两下"
   },
   {
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
+    "icon": "https://img.3dmgame.com/uploads/images/news/20201007/1602077049_814329.jpg",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "必应必应，有求必应"
   },
   {
     "name": "GitHub",
     "url": "https://github.com/search?q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/github.svg",
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
     "placeholder": "Search GitHub",
     "blocked": false,
     "isInner": false
   },
   {
-    "name": "知乎",
-    "url": "https://www.zhihu.com/search?type=content&q=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/zhihu.svg",
+    "name": "Yandex",
+    "url": "https://yandex.com/search/?text=",
+    "icon": "https://yastatic.net/s3/web4static/_/v2/v9YNE_BX0evwMHbDyd0NZv8ReK0.png",
     "blocked": false,
-    "isInner": false
+    "isInner": false,
+    "placeholder": "Yandex"
   },
   {
     "name": "豆瓣",
     "url": "https://search.douban.com/book/subject_search?search_text=",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/douban.svg",
+    "icon": "https://img.88icon.com/upload/jpg/20210612/931a36fc0a8a80f20f9233d028d522ae_24554_512_512.jpg!88con",
     "placeholder": "书名、作者、ISBN",
     "blocked": false,
     "isInner": false
