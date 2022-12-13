@@ -6,7 +6,7 @@
   "showGithub": true,
   "title": "木易Young导航",
   "description": "个人导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "keywords": "导航,编程开发,社区站点,设计师,实用工具,学习资源,电影,电视剧,美剧",
   "theme": "Sim",
   "appTheme": "App",
   "footerContent": "<div style=\"font-weight: bold;\">Copyright © 2022  <a target=\"_blank\" href=\"https://github.com/my-youth/nav\" rel=\"nofollow\">木易Young导航</a>, All Rights Reserved</div>",
@@ -15,7 +15,13 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://s1.ax1x.com/2022/12/13/z52PRU.jpg",
+      "url": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "src": "https://s1.ax1x.com/2022/12/13/z52DyQ.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -32,7 +38,7 @@
       "height": null
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://s1.ax1x.com/2022/12/13/z52PRU.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -43,7 +49,7 @@
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637462542538-0ed801fb13f9e4c29cdfface91eb6c44.jpeg",
+      "src": "https://s1.ax1x.com/2022/12/13/z52DyQ.jpg",
       "url": "",
       "width": null,
       "height": null
